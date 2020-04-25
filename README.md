@@ -17,6 +17,6 @@
 
 8 - XGBoost
 
-9 - Art.Neural_Network
+9 - Artifical Neural Network (MLP)
 
 10- CatBoost
